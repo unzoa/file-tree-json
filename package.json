@@ -1,0 +1,15 @@
+{
+  "name": "tree-node-js",
+  "version": "1.0.0",
+  "description": "- read.js\r   - read.json 多层级文件目录到文件名\r - trans-to-tags.js\r   - trans-data.json 将read.json转换成以目录为tags的数据对象\r - manage.js\r   - manage-data.json 整理以格式为筛选条件数据输出",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-xlsx": "^0.23.0"
+  }
+}
